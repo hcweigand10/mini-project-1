@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    display: inline;
+}
+
+#navbar {
+    list-style-type: none;
+    text-align: right;
+    background-color: blanchedalmond;
+    padding: 5px;
+    border-bottom: 4px solid black;
+    height: 10px;
+}
+
+#main {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+#contact {
+    text-align: center;
+    background-color: pink;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#contact-btn {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: tan;
+    border-radius: 3%;
+
+}
+
+footer {
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
